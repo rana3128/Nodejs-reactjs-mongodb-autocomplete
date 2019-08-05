@@ -9,6 +9,12 @@ how to use it:
 
 i am hoping that you already know basics of Nodejs and Reactjs
 
+or you download "react_node_autocomplete" folder than go to command line and enter to this folder than run this command
+1. npm install
+2. npm run client_install
+
+and connect to your localhost mongodb data base create database and table check config folder.
+
 
 for more information contact at : rana3128@gmail.com  or +91-8077762194
  
