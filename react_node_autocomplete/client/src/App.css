@@ -1,0 +1,26 @@
+.remove-btn{
+  margin-left: 5rem;
+}
+
+.items-row{
+  background-color: #00B7FF;
+}
+
+.fade-enter {
+  opacity: 0.01;
+}
+.fade-enter-active{
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+.fade-exit {
+  opacity: 1;
+}
+.fade-exit-active{
+  opacity: 0.01;
+  transition: opacity 1000ms ease-in;
+}
+
+.autosearch{
+  margin: 3rem;
+}
